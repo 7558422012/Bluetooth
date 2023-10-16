@@ -1,0 +1,11 @@
+enable pdm to pcm converter
+pdm to pcm sample code
+lc3 compression and decompression
+
+mic - expansion kit
+
+CY8CKIT-028-SENSE -- ESP32-WROOM-BOARD
+PDM1.VDD  ----------  VCC
+PDM.CLK   ----------  GPIO 18
+PDM.DATA  ----------  GPIO 21
+TX.WS     ----------  GPIO 25            

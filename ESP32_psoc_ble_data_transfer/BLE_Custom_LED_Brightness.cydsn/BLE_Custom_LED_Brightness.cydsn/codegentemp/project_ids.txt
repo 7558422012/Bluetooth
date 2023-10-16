@@ -1,0 +1,6 @@
+C:\shared\trial\PSOC\workspace\BLE_Custom_LED_Brightness\BLE_Custom_LED_Brightness.cydsn\BLE_Custom_LED_Brightness.cyprj|42598b08-3ad2-4788-ba8d-11c750360d9b
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|56cfe9d0-3ef4-47ea-8e8d-da80c0865ddf
+C:\Users\natha\OneDrive\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|18c0c79b-e75e-4352-ae00-3679b9bf4399
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|652e9e55-575d-4dfb-b190-356a1c79967e
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|62f214a3-e275-4187-9f4d-a9c3620f845c
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|2bec1885-c471-4941-81ae-5d5f7a620417
